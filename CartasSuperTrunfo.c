@@ -7,6 +7,7 @@ int main() {
        Após fique a vontade para criar as suas cartas e divirta-se!!!! */
 
     printf("SUPER TRUNFO NOVATO \n\n");
+    printf("Novo commit\n");
     printf("EXEMPLOS DE CARTAS \n\n");
 
     // Carta 1 pronta
@@ -134,3 +135,4 @@ int main() {
 
     return 0;
 }
+ 
